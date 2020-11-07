@@ -16,4 +16,5 @@
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 a = 'Hello, bro'
-print(a)
+b = 'or you are not my bro'
+print(a, b)
