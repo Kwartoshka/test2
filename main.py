@@ -16,5 +16,5 @@
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 a = 'Hello, bro'
-b = 'or you are not my bro'
+b = 'О нет, я пишу что-то неправильное'
 print(a, b)
